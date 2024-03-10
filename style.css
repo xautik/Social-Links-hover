@@ -67,6 +67,7 @@ body{
 
 .link:hover .icon{
     width: 30%;
+    float: left;
 }
 
 .text{
